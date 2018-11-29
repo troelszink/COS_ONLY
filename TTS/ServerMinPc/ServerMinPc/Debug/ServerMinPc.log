@@ -1,0 +1,4 @@
+﻿  ServerRequestReply.cpp
+c:\users\mirzet\dropbox\uni 3. semester\projekt\serverminpc\serverminpc\buffer.h(44): warning C4715: 'Buffer::getBufferLength': not all control paths return a value
+  ServerMinPc.vcxproj -> C:\Users\Mirzet\Dropbox\Uni 3. semester\Projekt\ServerMinPc\Debug\ServerMinPc.exe
+  ServerMinPc.vcxproj -> C:\Users\Mirzet\Dropbox\Uni 3. semester\Projekt\ServerMinPc\Debug\ServerMinPc.pdb (Partial PDB)
